@@ -3,3 +3,6 @@
 
 # Hashtable
 ### Simple hash table with a few methods. Get, Set, Remove, has, length, clear, keys, values, entries, and a (should be private) method to redistribute the entries when increasing the number of buckets.
+
+# Binary Search Tree
+### A simple BST class + Node class, with some useful functions to insert, delete, search, perform callbacks, traverse, check if the tree is balanced, find height, depth, build, and rebalance the tree.
