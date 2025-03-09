@@ -6,3 +6,6 @@
 
 # Binary Search Tree
 ### A simple BST class + Node class, with some useful functions to insert, delete, search, perform callbacks, traverse, check if the tree is balanced, find height, depth, build, and rebalance the tree.
+
+# Knights
+### A small BFS to find the shortest path between two spaces on a board as a knight.
